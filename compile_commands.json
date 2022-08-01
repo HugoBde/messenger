@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-o",
+      "obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/bde/Documents/Programming/c/messenger",
+    "file": "/home/bde/Documents/Programming/c/messenger/src/main.c",
+    "output": "/home/bde/Documents/Programming/c/messenger/obj/main.o"
+  }
+]
